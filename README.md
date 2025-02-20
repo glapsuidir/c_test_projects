@@ -1,4 +1,3 @@
 ### C Test Projects
 
-This is a collection of projects I have made to help me practice writing
-programs in the C language.
+This is a repository to store all of my personal projects used for the purpose of learning C.
